@@ -1,0 +1,10 @@
+{
+  "pre_tool_use": [
+    {
+      "type": "python",
+      "module": "plugins.print_context_plugin.print_context_hook",
+      "function": "print_context_hook",
+      "matcher": "*"
+    }
+  ]
+}
